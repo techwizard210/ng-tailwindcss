@@ -39,6 +39,6 @@
     "update-notifier": "^5.1.0"
   },
   "devDependencies": {
-    "standard": "^15.0.1"
+    "standard": "^17.0.0"
   }
 }
